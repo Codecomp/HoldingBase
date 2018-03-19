@@ -6,5 +6,8 @@
             "email": "chris@ahoy.co.uk"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "kint-php/kint": "^2.2"
+    }
 }
