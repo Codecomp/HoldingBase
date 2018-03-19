@@ -1,0 +1,19 @@
+{
+  "name": "holdingbase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Codecomp@github.com/Codecomp/HoldingBase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codecomp/HoldingBase/issues"
+  },
+  "homepage": "https://github.com/Codecomp/HoldingBase#readme"
+}

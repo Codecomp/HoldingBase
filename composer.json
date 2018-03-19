@@ -1,0 +1,10 @@
+{
+    "name": "chrismorris/holding-base",
+    "authors": [
+        {
+            "name": "Chris Morris",
+            "email": "chris@ahoy.co.uk"
+        }
+    ],
+    "require": {}
+}
